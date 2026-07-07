@@ -2,11 +2,7 @@
   <img src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-logo-512.png" width="250">
 </p>
 
-<h1 align="center">Project Name</h1>
 
-<p align="center">
-  EVILGINX
-</p>
 
 ---
 
