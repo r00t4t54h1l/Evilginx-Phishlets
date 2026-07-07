@@ -1,4 +1,4 @@
-]<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-logo-512.png" width="250">
 </p>
 
